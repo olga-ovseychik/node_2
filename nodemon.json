@@ -1,0 +1,3 @@
+{   
+    "ignore": ["./articles.json", "util/*.log"] 
+}
