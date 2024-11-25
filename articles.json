@@ -1,0 +1,28 @@
+{
+  "articles": [
+    {
+      "id": "c625e81a-436e-49d7-9265-848d439106f5",
+      "title": "some title",
+      "text": "some text",
+      "date": "01.01.2024",
+      "author": "John Doe",
+      "comments": [
+        {
+          "id": "0553f755-aec8-46c7-8395-232a3379bd2d",
+          "articleId": "c625e81a-436e-49d7-9265-848d439106f5",
+          "text": "some comment",
+          "date": "01.01.2024",
+          "author": "Jane Doe"
+        }
+      ]
+    },
+    {
+      "id": "2177075f-e766-4757-9805-0e8dc6a469a6",
+      "title": "some title",
+      "text": "some text",
+      "date": "01.01.2024",
+      "author": "John Doe",
+      "comments": []
+    }
+  ]
+}
